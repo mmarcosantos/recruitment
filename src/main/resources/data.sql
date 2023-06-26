@@ -1,0 +1,14 @@
+-- /*INSERT INTO Clients (id, name, last_name, email, phone)
+-- VALUES (1,'John', 'Doe', 'john.doe@example.com', '1234567890');
+--
+-- INSERT INTO Clients (id, name, last_name, email, phone)
+-- VALUES (2,'Jane', 'Smith', 'jane.smith@example.com', '9876543210');
+--
+-- INSERT INTO Clients (id, name, last_name, email, phone)
+-- VALUES (3,'Alice', 'Johnson', 'alice.johnson@example.com', '5555555555');
+--
+-- INSERT INTO Clients (id, name, last_name, email, phone)
+-- VALUES (4,'Michael', 'Brown', 'michael.brown@example.com', '9999999999');
+--
+-- INSERT INTO Clients (id, name, last_name, email, phone)
+-- VALUES (5,'Emily', 'Davis', 'emily.davis@example.com', '4444444444');*/
